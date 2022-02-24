@@ -37,7 +37,7 @@ For installing PyTorch combining with the CUDA toolkit, please follow the offici
    ```shell
    python main_aec_2m.py
    ```
-   Run single modality model modalities (SMA in the paper), change which modality to use `m_use = m*` in `main_aec_single.py`:
+   Run single modality model (SMA in the paper), change which modality to use `m_use = m*` in `main_aec_single.py`:
    ```shell
    python main_aec_single.py
    ```
